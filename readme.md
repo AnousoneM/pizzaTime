@@ -34,16 +34,16 @@ Chaque pizza devra être présentée dans une **card** avec les éléments suiva
 * 1 **bouton** commander qui ouvrira une **Modal** indiquant que la pizza a bien été ajoutée.
 
 ex. Card :  
-![Prix](img/Capture02.PNG "Prix") 
+![Prix](img/Capture02.PNG "Prix")
 
 ex. Prix :  
 ![Prix](img/Capture07.PNG "Prix")  
 
 ex. Popovers :  
-![Popovers](img/Capture06.PNG "Popovers") 
+![Popovers](img/Capture06.PNG "Popovers")
 
 ex. Modal :  
-![Popovers](img/Capture05.PNG "Popovers") 
+![Popovers](img/Capture05.PNG "Popovers")
 
 ## Structure du dossier
 
@@ -51,10 +51,10 @@ Le dossier de ce test sera composé de cette manière :
 
 * index.html
 * assets
-    * img
-        * images_du_site
-    * css
-        * style.css
+  * img
+    * images_du_site
+  * css
+    * style.css
 
 ## Les fameuses contraintes
 
