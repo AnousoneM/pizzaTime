@@ -59,7 +59,7 @@ Le dossier de ce test sera composé de cette manière :
 ## Les fameuses contraintes
 
 * Utiliser majoritairement *des classes bootstrap* : **Votre site doit être responsive**.
-* La navbar doit bénéficier de la fonction : **Scrollspy** (<https://getbootstrap.com/docs/4.3/components/scrollspy/).>
+* La navbar doit bénéficier de la fonction : **Scrollspy** (<https://getbootstrap.com/docs/4.4/components/scrollspy/>
 * Utilisation de l'anglais lors de la création de vos **class** et de vos **id**.
 * Un code **propre** avec une belle **indentation** pour plus de lisibilité.
 
